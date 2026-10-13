@@ -1,0 +1,157 @@
+ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ С КОНЕЧНЫМ ПОЛЬЗОВАТЕЛЕМ (EULA)
+ZapretUltimate
+Copyright (c) 2026 BadgerStar15. Все права защищены.
+
+=====================================================================
+РУССКИЙ ЯЗЫК
+=====================================================================
+
+1. ОБЩИЕ ПОЛОЖЕНИЯ
+
+1.1. Программа «ZapretUltimate» (далее — Программа) является графической
+     оболочкой для сторонней утилиты zapret. Программа НЕ содержит zapret,
+     НЕ является его частью и не заменяет его.
+1.2. Устанавливая или используя Программу, вы (далее — Пользователь)
+     подтверждаете, что прочитали, поняли и принимаете условия настоящего
+     Соглашения. Если вы не согласны с условиями — удалите Программу и не
+     используйте её.
+
+2. РАЗРЕШЁННОЕ ИСПОЛЬЗОВАНИЕ
+
+2.1. Правообладатель предоставляет Пользователю неисключительное,
+     непередаваемое право использовать Программу в личных,
+     некоммерческих целях способом, предусмотренным её назначением.
+2.2. Пользователь вправе скопировать Программу на собственные носители
+     для личного резервного копирования.
+
+3. ЗАПРЕЩЁННЫЕ ДЕЙСТВИЯ
+
+Без письменного разрешения правообладателя ЗАПРЕЩАЕТСЯ:
+
+3.1. Изменять, модифицировать, адаптировать, переводить или создавать
+     производные произведения на основе Программы, в том числе изменять
+     её название, значки, интерфейс, ссылки на автора и способы доната.
+3.2. Декомпилировать, дизассемблировать, извлекать исходный код и иным
+     способом исследовать внутреннее устройство Программы, кроме случаев,
+     прямо разрешённых применимым законодательством.
+3.3. Распространять Программу: выкладывать её на любых сайтах, файловых
+     хостингах, в торрентах, мессенджерах, каналах и сборниках, передавать
+     третьим лицам, размещать в составе собственных сборок и репаков.
+     Распространение допускается ТОЛЬКО в виде оригинального установщика
+     без каких-либо изменений и ТОЛЬКО со ссылкой на официальный источник.
+3.4. Продавать Программу, брать плату за её установку или использование,
+     включать её в платные продукты и услуги.
+3.5. Удалять, скрывать или изменять уведомления об авторских правах,
+     название Программы, сведения об авторе и настоящую лицензию.
+3.6. Использовать Программу в противоправных целях либо способами,
+     нарушающими законодательство, применимое к Пользователю.
+
+4. ПРАВА ТРЕТЬИХ ЛИЦ
+
+4.1. Программа не включает в себя компоненты zapret и WinDivert
+     и не распространяет их.
+4.2. Утилита zapret распространяется отдельно под лицензией MIT
+     (Copyright (c) 2016-2026 bol-van, (c) 2024-2026 Flowseal):
+     https://github.com/bol-van/zapret
+     https://github.com/Flowseal/zapret-discord-youtube
+4.3. WinDivert (https://github.com/basil00/WinDivert) распространяется
+     под LGPLv3 или GPLv2 и входит в состав zapret.
+4.4. Пользователь самостоятельно устанавливает zapret и самостоятельно
+     отвечает за соблюдение его лицензии.
+
+5. ОТКАЗ ОТ ГАРАНТИЙ
+
+5.1. Программа предоставляется «КАК ЕСТЬ», без каких-либо гарантий,
+     явных или подразумеваемых, включая гарантии работоспособности,
+     пригодности для конкретной цели и отсутствия ошибок.
+5.2. Правообладатель не гарантирует, что Программа будет работать
+     на любом оборудовании, с любым провайдером и с любой версией zapret.
+
+6. ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ
+
+6.1. Правообладатель не несёт ответственности за любые прямые или
+     косвенные убытки, потерю данных, перебои в работе сети и иные
+     последствия, возникшие в результате использования или невозможности
+     использования Программы.
+6.2. Ответственность за использование Программы в соответствии
+     с законодательством своей страны несёт Пользователь.
+
+7. ПРЕКРАЩЕНИЕ ДЕЙСТВИЯ
+
+7.1. Настоящее Соглашение действует до его нарушения Пользователем.
+7.2. При нарушении условий Пользователь обязан прекратить использование
+     и удалить Программу со своих устройств.
+
+=====================================================================
+ENGLISH
+=====================================================================
+
+END USER LICENSE AGREEMENT (EULA)
+ZapretUltimate
+Copyright (c) 2026 BadgerStar15. All rights reserved.
+
+1. GENERAL
+
+1.1. "ZapretUltimate" (the "Software") is a graphical front-end for the
+     third-party utility zapret. The Software does NOT contain zapret,
+     is NOT a part of it and does NOT replace it.
+1.2. By installing or using the Software you agree to the terms of this
+     Agreement. If you do not agree, delete the Software and do not use it.
+
+2. PERMITTED USE
+
+2.1. You are granted a non-exclusive, non-transferable right to use the
+     Software for personal, non-commercial purposes.
+2.2. You may copy the Software to your own media for personal backup.
+
+3. PROHIBITED ACTIONS
+
+Without prior written permission of the copyright holder you may NOT:
+
+3.1. Modify, adapt, translate or create derivative works based on the
+     Software, including changing its name, icons, interface, author
+     credits or donation links.
+3.2. Decompile, disassemble, extract the source code or otherwise study
+     the internal structure of the Software, except as expressly permitted
+     by applicable law.
+3.3. Redistribute the Software: upload it to any website, file host,
+     torrent, messenger, channel or collection, transfer it to third
+     parties, or include it in your own builds and repacks. Distribution
+     is allowed ONLY as the original unmodified installer and ONLY with a
+     link to the official source.
+3.4. Sell the Software, charge for its installation or use, or include it
+     in paid products and services.
+3.5. Remove, hide or alter copyright notices, the Software name, author
+     credits or this license.
+3.6. Use the Software for unlawful purposes or in any way that violates
+     the law applicable to you.
+
+4. THIRD-PARTY RIGHTS
+
+4.1. The Software does not include or distribute zapret or WinDivert.
+4.2. zapret is distributed separately under the MIT License
+     (Copyright (c) 2016-2026 bol-van, (c) 2024-2026 Flowseal).
+4.3. WinDivert is licensed under LGPLv3 or GPLv2 and is part of zapret.
+4.4. You install zapret yourself and are responsible for complying with
+     its license.
+
+5. DISCLAIMER OF WARRANTY
+
+5.1. The Software is provided "AS IS", without warranty of any kind,
+     express or implied, including fitness for a particular purpose.
+5.2. No guarantee is given that the Software will work on any hardware,
+     with any ISP or with any version of zapret.
+
+6. LIMITATION OF LIABILITY
+
+6.1. The copyright holder is not liable for any direct or indirect
+     damages, data loss, network disruptions or other consequences
+     arising from the use of, or inability to use, the Software.
+6.2. You are responsible for using the Software in compliance with the
+     laws of your country.
+
+7. TERMINATION
+
+7.1. This Agreement remains in effect until breached by you.
+7.2. Upon breach you must stop using the Software and delete it from your
+     devices.
