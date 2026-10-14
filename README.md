@@ -4,6 +4,18 @@
 
 <h1 align="center">ZapretUltimate</h1>
 
+<p align="center">
+  <a href="https://github.com/badgerstar15ff/ZapretUltimate/releases/latest">
+    <img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-ZapretUltimateSetup.exe-2ea44f?style=for-the-badge" alt="Скачать">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-1.0.0-blue" alt="версия">
+  <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6" alt="Windows">
+  <img src="https://img.shields.io/badge/%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D0%B5%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-orange" alt="лицензия">
+</p>
+
 **Многофункциональный GUI для [zapret](https://github.com/bol-van/zapret)** — удобное окно
 вместо ручного запуска `.bat`-файлов. Windows 10/11, интерфейс на русском языке.
 
@@ -76,7 +88,12 @@
 
 ## Установка
 
-1. Скачай **`ZapretUltimateSetup.exe`** только из официального источника (раздел Releases).
+**Актуальная версия:** [v1.0.0](https://github.com/badgerstar15ff/ZapretUltimate/releases/latest)
+· прямая ссылка на файл:
+[ZapretUltimateSetup.exe](https://github.com/badgerstar15ff/ZapretUltimate/releases/download/v1.0.0/ZapretUltimateSetup.exe)
+
+1. Скачай **`ZapretUltimateSetup.exe`** из раздела
+   [Releases](https://github.com/badgerstar15ff/ZapretUltimate/releases) — и только оттуда.
 2. Запусти установщик и согласись с запросом прав администратора —
    без них zapret не сможет поднять драйвер WinDivert.
 3. Запусти **ZapretUltimate** (ярлык на рабочем столе или в меню «Пуск»).
