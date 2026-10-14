@@ -1,4 +1,8 @@
-# ZapretUltimate
+<p align="center">
+  <img src="logo.png" alt="ZapretUltimate" width="160">
+</p>
+
+<h1 align="center">ZapretUltimate</h1>
 
 **Многофункциональный GUI для [zapret](https://github.com/bol-van/zapret)** — удобное окно
 вместо ручного запуска `.bat`-файлов. Windows 10/11, интерфейс на русском языке.
