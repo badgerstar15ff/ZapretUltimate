@@ -88,7 +88,7 @@
 
 ## Установка
 
-**Актуальная версия:** [v1.0.0](https://github.com/badgerstar15ff/ZapretUltimate/releases/latest)
+**Актуальная версия:** [v1.0.1](https://github.com/badgerstar15ff/ZapretUltimate/releases/latest)
 · прямая ссылка на файл:
 [ZapretUltimateSetup.exe](https://github.com/badgerstar15ff/ZapretUltimate/releases/download/v1.0.0/ZapretUltimateSetup.exe)
 
