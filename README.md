@@ -8,6 +8,9 @@
   <a href="https://github.com/badgerstar15ff/ZapretUltimate/releases/latest">
     <img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-ZapretUltimateSetup.exe-2ea44f?style=for-the-badge" alt="Скачать">
   </a>
+  <a href="https://t.me/badgerstar15ff">
+    <img src="https://img.shields.io/badge/Telegram-%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
   <a href="https://www.donationalerts.com/r/badgerstar15">
     <img src="https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D0%B4%D0%BE%D0%BD%D0%B0%D1%82-ff69b4?style=for-the-badge" alt="Поддержать">
   </a>
@@ -21,7 +24,7 @@
 
 **Многофункциональный GUI для [zapret](https://github.com/bol-van/zapret)** — удобное окно вместо ручного запуска `.bat`-файлов. Windows 10/11, интерфейс на русском языке.
 
-**Автор:** BadgerStar15 · **Донат:** https://www.donationalerts.com/r/badgerstar15
+**Автор:** BadgerStar15 · **Донат:** https://www.donationalerts.com/r/badgerstar15 · **Telegram:** https://t.me/badgerstar15ff
 
 ---
 
@@ -232,6 +235,12 @@ ZapretUltimate распространяется бесплатно. Если х�
 | **Порт на macOS и Linux** | 5 000 ₽ | Версии для macOS и Linux-систем |
 
 **Донат:** [donationalerts.com/r/badgerstar15](https://www.donationalerts.com/r/badgerstar15)
+
+### 📢 Подпишись на Telegram-канал
+
+Самый простой способ поддержать проект — **подписаться на Telegram-канал**. Там выходят анонсы обновлений, инструкции и ответы на вопросы.
+
+👉 **[t.me/badgerstar15ff](https://t.me/badgerstar15ff)**
 
 ### ⭐ Не можете задонатить? Поставьте звезду!
 
